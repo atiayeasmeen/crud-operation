@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fc1fdda-deb2-4cb9-ba64-8ec8e0675987" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/categories/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/categories/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/categories/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/categories/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/countries/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/countries/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/countries/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/countries/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/locations/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/locations/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/locations/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/locations/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/specialisms/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/specialisms/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/specialisms/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/specialisms/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat-project/resources/views/students/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/app/Http/Controllers/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/app/Http/Controllers/StudentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/app/Models/Student.php" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/app/Models/Student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/resources/views/students/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/resources/views/students/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/resources/views/students/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/resources/views/students/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat-project/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/creat-project/routes/web.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/creat-project/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1369209711">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="PASSWORD= 123" value="1" />
+          <entry key="php" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Blade" value="20" />
+          <entry key="PHP" value="18" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Blade" value="86" />
+          <entry key="PHP" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.composer.command.options" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creat-project/resources/views/categories/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/resources/views/students/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/CategoriesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/CountriesController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_10_28_181005_create_categories_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/resources/views/categories/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/app/Models/Category.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/app/Models/Country.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/resources/views/specialisms/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_11_01_130847_create_specialisms_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/creat-project" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/creat-project/resources/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/creat-project/app/Models/Specialism.php" />
+        <option value="$PROJECT_DIR$/creat-project/resources/views/specialisms/index.blade.php" />
+        <option value="$PROJECT_DIR$/creat-project/resources/views/specialisms/create.blade.php" />
+        <option value="$PROJECT_DIR$/creat-project/resources/views/specialisms/edit.blade.php" />
+        <option value="$PROJECT_DIR$/creat-project/resources/views/specialisms/show.blade.php" />
+        <option value="$PROJECT_DIR$/creat-project/app/Http/Controllers/SpecialismsController.php" />
+        <option value="$PROJECT_DIR$/creat-project/database/migrations/2018_10_30_133234_create_specialisms_table.php" />
+        <option value="$PROJECT_DIR$/creat-project/database/migrations/2018_11_01_130847_create_specialisms_table.php" />
+        <option value="$PROJECT_DIR$/creat-project/database/migrations/2018_10_28_181005_create_categories_table.php" />
+        <option value="$PROJECT_DIR$/creat-project/app/Http/Controllers/CategoriesController.php" />
+        <option value="$PROJECT_DIR$/creat-project/resources/views/categories/create.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/creat-project/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/creat-project/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/composer" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/creat-project/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-4" />
+    <option name="width" value="1375" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="categories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="specialisms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="students" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="creat-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="creat-project" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc1fdda-deb2-4cb9-ba64-8ec8e0675987" name="Default Changelist" comment="" />
+      <created>1540484875449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540484875449</updated>
+      <workItem from="1540484877320" duration="338000" />
+      <workItem from="1540485300039" duration="147000" />
+      <workItem from="1540485476186" duration="597000" />
+      <workItem from="1540524412460" duration="598000" />
+      <workItem from="1540528738502" duration="598000" />
+      <workItem from="1540530477796" duration="150000" />
+      <workItem from="1540531145672" duration="351000" />
+      <workItem from="1540532024323" duration="542000" />
+      <workItem from="1540532625109" duration="12000" />
+      <workItem from="1540902415095" duration="6582000" />
+      <workItem from="1541073241872" duration="1626000" />
+      <workItem from="1541075851039" duration="6088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17629000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1375" height="735" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33231938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2788354" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIb9044.24198/PASSWORD= 123" />
+    <entry file="file://$PROJECT_DIR$/creat-project/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/students/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" lean-forward="true" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/students/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/students/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/categories/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/categories/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_10_22_131225_create_students_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Models/Student.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/StudentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="52" column="29" lean-forward="true" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/LocationsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="92" column="11" lean-forward="true" selection-start-line="92" selection-start-column="11" selection-end-line="92" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Models/Specialism.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/SpecialismsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/specialisms/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/specialisms/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/specialisms/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="91" selection-start-line="34" selection-start-column="91" selection-end-line="34" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_10_27_165016_create_countries_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/categories/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_10_30_133234_create_specialisms_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/specialisms/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_11_01_130847_create_specialisms_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Models/Country.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/database/migrations/2018_10_28_181005_create_categories_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Models/Category.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/CountriesController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/app/Http/Controllers/CategoriesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/students/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat-project/resources/views/categories/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
